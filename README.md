@@ -22,5 +22,5 @@ This project was done in collaboration with Joey Chung at 42.
 Run `make`. An executable will compile. Currently only tested on OS X.
 Run `./ft_retro`.
 
-![alt text](https://github.com/conanwu777/Retro_shooter/blob/master/1.png)
-![alt text](https://github.com/conanwu777/Retro_shooter/blob/master/2.png)
+## Screenshots
+<img src="https://github.com/conanwu777/Retro_shooter/blob/master/1.png" height="600">  <img src="https://github.com/conanwu777/Retro_shooter/blob/master/2.png" height="600">
